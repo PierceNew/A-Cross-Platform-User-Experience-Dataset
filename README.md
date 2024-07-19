@@ -21,7 +21,9 @@ Each data file includes two sheets:
 
 ## Data Analysis
 
-Statistical Analysis.xlsx.xlsx
+The statistical analysis of the dataset is available in the file from folder 'Data01' and 'Data02':
+
+Statistical Analysis.xlsx
 
 ## References
 
@@ -31,7 +33,7 @@ Statistical Analysis.xlsx.xlsx
 
 ## License
 
-MIT
+This dataset is released under the MIT License.
 
 ## Contact
 
