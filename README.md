@@ -21,7 +21,7 @@ Each data file includes two sheets:
 
 ## Data Analysis
 
-N/A
+Statistical Analysis.xlsx.xlsx
 
 ## References
 
@@ -31,8 +31,8 @@ N/A
 
 ## License
 
-N/A
+MIT
 
 ## Contact
 
-Name:Yongkang Xing   Email:p2576780@my365.dmu.ac.uk
+Name:Yongkang Xing   Email:ykxing@gduf.edu.cn
